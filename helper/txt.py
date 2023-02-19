@@ -46,10 +46,10 @@ Example:- /set_caption 📕 File Name: {filename}
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/MAJORTG2/Tesla-Rename>MAJOR TG</a>
 » 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://youtu.be/GfulqsSnTv4>MoTech Yt</a>
 
-• ❣️ <a href=https://github.com/lntechnical2>𝗟𝗡 𝗧𝗘𝗖𝗛𝗡𝗜𝗖</a>
 • ❣️ <a href=https://github.com/MAJORTG2</a>
 • ❣️ <a href=https://github.com/MAJORTG2</a>
 • ❣️ <a href=https://github.com/MAJORTG2</a>
-• ❣️ <a href=<https://github.com/MAJORTG2/a>
+• ❣️ <a href=https://github.com/MAJORTG2</a>
+• ❣️ <a href=https://github.com/MAJORTG2</a>
 • ❣️ <a href=https://github.com/MAJORTG2>𝗝𝗲𝗼𝗹 𝗣𝗮𝘂𝗹</a>
 """
